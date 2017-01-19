@@ -14,8 +14,8 @@ import {OverlayTrigger, Tooltip} from 'react-bootstrap'
 // ------------------------------------------------------------
 // Config
 
-// const WITTY_DEPLOY_URI = 'https://stopachka.github.io/witty-deploy';
-const WITTY_DEPLOY_URI = 'https://chat-bot-staging.herokuapp.com/';
+const WITTY_DEPLOY_URI = 'https://stopachka.github.io/witty-deploy';
+// const WITTY_DEPLOY_URI = 'https://chat-bot-staging.herokuapp.com/';
 const DEFAULT_ID = '5a387f6ccb4be4a1f77f2113747a558a';
 
 // Dev
